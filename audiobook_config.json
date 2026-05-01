@@ -1,0 +1,11 @@
+{
+    "voice": "en-US-AndrewNeural",
+    "rate": "+0%",
+    "volume": "+0%",
+    "pitch": "+0Hz",
+    "concurrency": 15,
+    "chunk_size": 500,
+    "output_format": "mp3",
+    "output_dir": "",
+    "last_file": "E:/YoutubeProjects/AudioBook/books/dracula-bram-stoker.epub"
+}
